@@ -1,4 +1,4 @@
-# eshop
+# eshopping 
 
 For create virtual environment for Django project
 python3 -m venv .venv
